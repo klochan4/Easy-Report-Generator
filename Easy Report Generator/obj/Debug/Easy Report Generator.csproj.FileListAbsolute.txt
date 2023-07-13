@@ -1,0 +1,26 @@
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\Easy Report Generator.exe.config
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\Easy Report Generator.exe
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\Easy Report Generator.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\System.IO.Packaging.dll
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy Report Generator.csproj.AssemblyReference.cache
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy Report Generator.csproj.SuggestedBindingRedirects.cache
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy_Report_Generator.Properties.Resources.resources
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy Report Generator.csproj.GenerateResource.cache
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy Report Generator.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy Report Generator.csproj.CopyComplete
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy Report Generator.exe
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy Report Generator.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy_Report_Generator.Form1.resources
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Easy Report Generator\Easy Report Generator\obj\Debug\Easy_Report_Generator.Form_replace.resources
